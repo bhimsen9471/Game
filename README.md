@@ -2,7 +2,7 @@
 
 By BHIMSEN KUMAR.
 
-Take a look at live version: http://127.0.0.1:5500/simon.html
+Take a look at live version: https://bhimsen9471.github.io/Simon-Game/
 
 Game Concept
 
